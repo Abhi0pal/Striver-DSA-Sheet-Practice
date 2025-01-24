@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0940-fruit-into-baskets) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
