@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0118-pascals-triangle) |
@@ -52,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
