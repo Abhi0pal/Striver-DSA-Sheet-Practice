@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0229-majority-element-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0940-fruit-into-baskets) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0242-valid-anagram) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
