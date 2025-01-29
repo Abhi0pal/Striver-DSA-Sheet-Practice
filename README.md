@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0907-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
