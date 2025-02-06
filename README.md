@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
 ## Design
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
