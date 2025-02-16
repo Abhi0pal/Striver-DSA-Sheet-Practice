@@ -6,9 +6,7 @@ class Solution {
             if(!str[i].equals("")){
                 sb.append(str[i]+" ");
             }
-           
         }
         return sb.toString().trim();
-        
     }
 }
