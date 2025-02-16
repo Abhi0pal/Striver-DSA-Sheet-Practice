@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0151-reverse-words-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
