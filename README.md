@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
