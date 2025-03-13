@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
