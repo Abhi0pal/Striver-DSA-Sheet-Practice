@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0118-pascals-triangle) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0205-isomorphic-strings) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0242-valid-anagram) |
 ## Counting
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0205-isomorphic-strings) |
