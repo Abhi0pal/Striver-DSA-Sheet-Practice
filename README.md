@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0459-repeated-substring-pattern) |
+| [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0443-string-compression) |
+| [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0316-remove-duplicate-letters) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
