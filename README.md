@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0070-climbing-stairs) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0410-split-array-largest-sum) |
 ## Sorting
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
