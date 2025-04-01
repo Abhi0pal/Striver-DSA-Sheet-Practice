@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0242-valid-anagram) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
