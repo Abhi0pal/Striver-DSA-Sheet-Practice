@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0234-palindrome-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
