@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0907-koko-eating-bananas) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
 ## Simulation
 |  |
