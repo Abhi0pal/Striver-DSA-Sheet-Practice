@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
