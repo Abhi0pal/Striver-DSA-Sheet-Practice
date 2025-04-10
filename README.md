@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0739-daily-temperatures) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0940-fruit-into-baskets) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
 ## Simulation
