@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0410-split-array-largest-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0189-rotate-array) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
