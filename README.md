@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1666-make-the-string-great) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0937-online-stock-span) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1072-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0234-palindrome-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1072-next-greater-node-in-linked-list) |
 ## Data Stream
 |  |
 | ------- |
