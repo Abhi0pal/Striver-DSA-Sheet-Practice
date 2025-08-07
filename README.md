@@ -255,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
