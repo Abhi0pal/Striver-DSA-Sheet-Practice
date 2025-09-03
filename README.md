@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0940-fruit-into-baskets) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0268-missing-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0792-binary-search) |
@@ -259,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/1153-product-sales-analysis-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhi0pal/Striver-DSA-Sheet-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
